@@ -1,5 +1,5 @@
 # pythonDesignPatterns
-Implementation of design patterns in Python
+Implementation of design patterns in Python3
 
 ## List of Patterns
 
